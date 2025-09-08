@@ -1,4 +1,4 @@
-[Preview](preview.jpeg)
+[Preview](preview.png)
 
 README - Sales Performance Dashboard
 
