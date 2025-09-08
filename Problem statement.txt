@@ -1,0 +1,42 @@
+Title: Sales Performance Dashboard
+
+Objective:
+Build an interactive Power BI dashboard that tracks overall sales performance, profitability, and customer demand across different geographies, categories, and time periods.
+
+Stakeholders:
+
+Sales Managers (to monitor revenue & profit trends)
+
+Marketing Teams (to analyze category performance & customer demand)
+
+Finance (to track profitability & margins)
+
+Executives (to take decisions on promotions & expansions)
+
+Key Questions:
+
+What is the total revenue, profit, and quantity sold over time?
+
+Which product categories and sub-categories are performing best/worst?
+
+How are sales and profits distributed across states and cities?
+
+Which payment modes are most preferred by customers?
+
+Who are the top customers driving revenue?
+
+KPIs:
+
+Total Sales Amount
+
+Total Profit
+
+Total Quantity Sold
+
+Profit Margin % = Profit / Sales Amount
+
+Orders by Payment Mode
+
+Sales by Category/Sub-Category
+
+Regional Sales & Profit
