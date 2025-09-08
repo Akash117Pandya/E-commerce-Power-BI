@@ -1,3 +1,4 @@
+(preview.jpg)
 
 README - Sales Performance Dashboard
 
